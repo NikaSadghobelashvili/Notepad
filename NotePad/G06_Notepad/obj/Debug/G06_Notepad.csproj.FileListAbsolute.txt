@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\G06_Notepad\G06_Notepad\bin\Debug\G06_Notepad.exe.config
+C:\Users\user\Desktop\G06_Notepad\G06_Notepad\bin\Debug\G06_Notepad.exe
+C:\Users\user\Desktop\G06_Notepad\G06_Notepad\bin\Debug\G06_Notepad.pdb
+C:\Users\user\Desktop\G06_Notepad\G06_Notepad\obj\Debug\G06_Notepad.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\G06_Notepad\G06_Notepad\obj\Debug\G06_Notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\G06_Notepad\G06_Notepad\obj\Debug\G06_Notepad.NotepadForm.resources
+C:\Users\user\Desktop\G06_Notepad\G06_Notepad\obj\Debug\G06_Notepad.Properties.Resources.resources
+C:\Users\user\Desktop\G06_Notepad\G06_Notepad\obj\Debug\G06_Notepad.csproj.GenerateResource.cache
+C:\Users\user\Desktop\G06_Notepad\G06_Notepad\obj\Debug\G06_Notepad.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\G06_Notepad\G06_Notepad\obj\Debug\G06_Notepad.exe
+C:\Users\user\Desktop\G06_Notepad\G06_Notepad\obj\Debug\G06_Notepad.pdb
